@@ -1,13 +1,11 @@
 import React, { Component } from 'react';
 import './App.css';
-import Coin from "./components/CoinList/Coin/Coin";
+import Content from "./components/Content/Content";
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
-          <Coin></Coin>
-      </div>
+        <Content/>
     );
   }
 }

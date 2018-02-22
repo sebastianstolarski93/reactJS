@@ -1,0 +1,16 @@
+.row-coin {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+    .row-coin .name-coin {
+        font-weight: 700;
+    }
+    .row-coin .value-usd-coin {
+        font-weight: 14px;
+    }
+        .row-coin .value-usd-coin::after {
+            content: 'USD';
+            display: inline-block;
+            vertical-align: top;
+        }

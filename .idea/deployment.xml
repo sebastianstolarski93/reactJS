@@ -1,39 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="wordrpess_engine">
+  <component name="PublishConfigData" serverName="localhost">
     <serverData>
-      <paths name="flex">
+      <paths name="localhost">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
-      <paths name="flex (1)">
+      <paths name="netplace">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
-      <paths name="remote">
+      <paths name="tomcat usa">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="remote2">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="wordrpess_engine">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="crypto-tracker" />
           </mappings>
         </serverdata>
       </paths>
